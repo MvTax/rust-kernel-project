@@ -1,5 +1,3 @@
-**Remarque importante :** J'ai rencontré un problème avec un ancien dépôt sur lequel j'ai travaillé progressivement. J'ai dû en créer un nouveau, mais je ne vais pas simuler des commits différés. Je préfère donc expliquer la situation et pousser le projet dans son intégralité. Merci pour ta compréhension
-
 # Rust Kernel Project 🚀  
 Petit noyau minimal en Rust, avec un **ordonnanceur Priorité-Round Robin**, un **allocateur de mémoire Buddy System** et un **système de fichiers FAT32**. 
 
